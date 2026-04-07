@@ -34,7 +34,7 @@ export default function Home() {
             </h1>
 
             <div className="bg-slate-900 p-10 rounded-2xl border border-slate-800 shadow-2xl w-full max-w-md">
-                <label className="block mb-4 text-sm font-medium text-slate-400">Upload your PNG</label>
+                <label className="block mb-4 text-sm font-medium text-slate-500">Upload your PNG</label>
                 <input
                     type="file"
                     accept="image/png"
